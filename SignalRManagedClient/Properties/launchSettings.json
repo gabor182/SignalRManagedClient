@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SignalRManagedClient": {
+      "commandName": "Project",
+      "commandLineArgs": "--debug raw"
+    }
+  }
+}
